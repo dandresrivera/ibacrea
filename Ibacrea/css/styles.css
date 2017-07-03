@@ -1,0 +1,65 @@
+nav div
+{
+    background-color: #1a1b35 ;
+}
+
+.page-footer
+{
+         background-color: #1a1b35 ;
+}
+
+  .parallax-container {
+      height: 200px;
+}
+
+.slider{
+    background-color: #1a1b35;
+    
+}
+.icon-size
+{
+font-size: 7em;
+}
+img.imagen-size{
+    width: 150px; height: 150px;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+img.imagen-size1{
+    width: 150px; height: 150px;
+    max-width: 100%;
+
+    
+}
+
+.asignarColor-text
+{
+    color: #1a1b35;
+}
+
+h4
+{
+    color: #1a1b35;
+}
+.menu-fixed
+{
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+    box-shadow: 0px 4px 3px rgba(0,0,0,.5);
+
+}
+
+
+
+
+
+
+  /*this is the hover event trigger*/
+
+  /*this is the hover event trigger*/
+
+  
